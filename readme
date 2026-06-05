@@ -1,0 +1,5 @@
+npx create-next-app@latest ajaia-docs --typescript --tailwind --app
+cd ajaia-docs
+npm install @tiptap/react @tiptap/starter-kit @tiptap/extension-placeholder @prisma/client
+npm install -D prisma
+npm install uuid
